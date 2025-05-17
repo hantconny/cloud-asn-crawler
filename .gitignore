@@ -1,0 +1,12 @@
+# ignore local test script
+*.sh
+*.bat
+*.db
+*.zip
+*.csv
+*.log
+*.text
+*.txt
+log/
+/.idea/
+*/__pycache__
